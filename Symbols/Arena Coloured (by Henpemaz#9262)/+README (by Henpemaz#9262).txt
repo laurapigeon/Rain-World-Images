@@ -1,0 +1,2 @@
+All arena icons sprites, cropped sorted and named, png files with transparent background.
+These are "almost intact" sprites from the game, I wasn't able to separate the dropshadow that is present in most of these sprites from the background so I left it out. Props to @Nacu for providing a screenshot for me to work with.
