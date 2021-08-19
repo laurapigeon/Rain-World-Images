@@ -12,3 +12,5 @@ void worms
 void spawn
 albinos
 pebbles' insides
+half eaten food
+slugcat on poles and such
