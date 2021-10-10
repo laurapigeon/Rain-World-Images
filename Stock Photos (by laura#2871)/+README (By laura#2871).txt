@@ -4,10 +4,7 @@ If anyone has any suggestions for stock images I haven't done, feel free to ping
 I'm considering extending this work to gifs at some point, but it'd be a hell of a feat to make them transparent too.
 
 to do:
-leviathan
 leeches
-moon
-pebbles
 angry guardian
 lantern mouse glow
 things killing slugcat
@@ -20,3 +17,6 @@ half eaten food
 slugcat movement
 rainbows
 more scavs and lizards
+lit unlock tokens
+white lizards on poles
+white lizards camoflaged
