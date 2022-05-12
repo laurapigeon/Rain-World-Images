@@ -20,3 +20,4 @@ more scavs and lizards
 lit unlock tokens
 white lizards on poles
 white lizards camoflaged
+creatures with black in different palettes
